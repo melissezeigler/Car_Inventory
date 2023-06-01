@@ -6,7 +6,7 @@ export const server_calls = {
             headers: {
                 'Content-Type': 'application/json',
                 'Access-Control-Allow-Orgin': '*',
-                'x-access-token': 'bearer  232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
+                'x-access-token': 'bearer 232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
             },
         })
 
@@ -25,7 +25,7 @@ export const server_calls = {
             headers: {
                 'Content-Type': 'application/json',
                 'Access-Control-Allow-Orgin': '*',
-                'x-access-token': 'bearer  232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
+                'x-access-token': 'bearer 232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
             },
             body: JSON.stringify(data)
         })
@@ -44,7 +44,7 @@ export const server_calls = {
             headers: {
                 'Content-Type': 'application/json',
                 'Access-Control-Allow-Orgin': '*',
-                'x-access-token': 'bearer  232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
+                'x-access-token': 'bearer 232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
             },
             body: JSON.stringify(data)
         })
@@ -62,7 +62,7 @@ export const server_calls = {
             method: "DELETE",
             headers: {
                 'Content-Type': 'application/json',
-                'x-access-token': 'bearer  232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
+                'x-access-token': 'bearer 232f4165b0df328dcb4d23032364a14aa0a97e5f468e1ee3'
             }
         })
 
